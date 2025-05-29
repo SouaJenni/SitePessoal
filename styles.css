@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: 'Arial Rounded MT Bold', sans-serif;
+  
   background: #f4dfff;
   color: #333;
   padding: 40px 20px;
@@ -15,6 +15,7 @@ body {
 
 /* Título principal */
 #titulo-principal h1 {
+  font-family: "Fascinate Inline", system-ui;
   font-size: 48px;
   color: #c85cfc;
   letter-spacing: 5px;
@@ -22,6 +23,7 @@ body {
 }
 
 #titulo-principal h4 {
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   color: #444;
   margin-bottom: 40px;
@@ -60,6 +62,7 @@ body {
 
 /* Título de cada card */
 #boxes h2 {
+  font-family: "Fascinate Inline", system-ui;
   font-size: 20px;
   color: #a23bff;
   margin-bottom: 10px;
@@ -67,6 +70,7 @@ body {
 
 /* Texto de cada card */
 #boxes p, #boxes P {
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 1.4;
   margin-bottom: 20px;
@@ -75,6 +79,7 @@ body {
 
 /* Links */
 #boxes a {
+  font-family: Arial, Helvetica, sans-serif;
   display: inline-block;
   background-color: #8900d8;
   color: white;
