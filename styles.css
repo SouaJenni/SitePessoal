@@ -81,15 +81,8 @@ body {
 #boxes a {
   font-family: Arial, Helvetica, sans-serif;
   display: inline-block;
-  background-color: #8900d8;
-  color: white;
+  color: rgba(0, 0, 0);
   text-decoration: none;
-  padding: 12px 24px;
-  border-radius: 25px;
   font-size: 14px;
   transition: background 0.3s ease;
-}
-
-#boxes a:hover {
-  background-color: #6f00b3;
 }
